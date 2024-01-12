@@ -212,6 +212,12 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "transparent_image",
+      "rootUri": "file:///Users/brianosuna/.pub-cache/hosted/pub.dev/transparent_image-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "typed_data",
       "rootUri": "file:///Users/brianosuna/.pub-cache/hosted/pub.dev/typed_data-1.3.2",
       "packageUri": "lib/",
@@ -248,7 +254,7 @@
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2024-01-11T07:14:23.190722Z",
+  "generated": "2024-01-12T08:14:57.784121Z",
   "generator": "pub",
   "generatorVersion": "3.2.3"
 }
